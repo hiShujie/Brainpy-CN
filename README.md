@@ -6,8 +6,7 @@ Brainpy-CN is an open-source implementation of several classical models built wi
 ---
 
 ### 🧠 **Model Types**  
-Hodgkin-Huxley (HH), Continuous Attractor Neural Network (CANN), Synaptic Plasticity Models, Working Memory (WM),  
-and Working Memory models based on CANN theory.  
+Hodgkin-Huxley (HH), Continuous Attractor Neural Network (CANN), Synaptic Plasticity Models, Working Memory (WM), and Working Memory models based on CANN theory.  
 
 ### 🛠️ **Quick Environment Setup**  
 ```bash  
