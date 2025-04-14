@@ -1,19 +1,19 @@
-🚀 **欢迎来到 Brainpy-CN！**  
+🚀 **Welcome to Brainpy-CN!**  
 
-### 🌟 **项目内容**  
-Brainpy-CN 是基于 [BrainPy](https://github.com/PKU-NIP-Lab/BrainPy) 搭建的几种经典模型的开源实现
+### 🌟 **Project Content**  
+Brainpy-CN is an open-source implementation of several classical models built with [BrainPy](https://github.com/PKU-NIP-Lab/BrainPy).  
 
 ---
 
-### 🧠 **模型类型**  
-Hodgkin-Huxley (HH)、连续吸引子神经网络 (CANN)、突触可塑性模型、工作记忆 (WM)   
-and Working memory models based on CANN theory
+### 🧠 **Model Types**  
+Hodgkin-Huxley (HH), Continuous Attractor Neural Network (CANN), Synaptic Plasticity Models, Working Memory (WM),  
+and Working Memory models based on CANN theory.  
 
-### 🛠️ **快速环境指南**  
-```bash
-# 需要Python 3.8
-pip install brainpy 
-```
-[jupyter notebook环境配置](https://zhuanlan.zhihu.com/p/33105153)
- 
-**License**: MIT | **最新版本**: v0.1.0 | **维护者**: [shujie zhang]  
+### 🛠️ **Quick Environment Setup**  
+```bash  
+# Requires Python 3.8  
+pip install brainpy  
+```  
+[Jupyter Notebook Environment Setup](https://zhuanlan.zhihu.com/p/33105153)  
+
+**License**: MIT | **Latest Version**: v0.1.0 | **Maintainer**: [shujie zhang]  
