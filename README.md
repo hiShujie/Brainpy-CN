@@ -14,5 +14,6 @@ Hodgkin-Huxley (HH)、连续吸引子神经网络 (CANN)、突触可塑性模型
 # 需要Python 3.8
 pip install brainpy 
 ```
+[jupyter notebook环境配置](https://zhuanlan.zhihu.com/p/33105153)
  
 **License**: MIT | **最新版本**: v0.1.0 | **维护者**: [shujie zhang]  
