@@ -7,7 +7,7 @@ Brainpy-CN 是基于 [BrainPy](https://github.com/PKU-NIP-Lab/BrainPy) 搭建的
 
 ### 🧠 **模型类型**  
 Hodgkin-Huxley (HH)、连续吸引子神经网络 (CANN)、突触可塑性模型、工作记忆 (WM)   
-
+and Working memory models based on CANN theory
 
 ### 🛠️ **快速环境指南**  
 ```bash
